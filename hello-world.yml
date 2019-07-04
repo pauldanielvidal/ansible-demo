@@ -3,4 +3,4 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World! from paul's repo, july 4"
+        msg: "Hello World! from paul's repo, july 4, lunchtime"
